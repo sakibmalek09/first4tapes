@@ -857,7 +857,7 @@ a.CloseBtn:after {
 
 .about-us {
     background-color: #b8b8b8;
-    background-image: url(/assets/img/about\ us.png);
+    background-image: url("../img/about us.png");
     height: 420px;
     background-size: cover;
     background-position: center;
@@ -1052,7 +1052,7 @@ a.CloseBtn:after {
 .shop {
     background-color: #b8b8b8;
     padding: 40px 0px 40px 0px;
-    background-image: url(/assets/img/about\ us.png);
+    background-image: url("../img/about us.png");
     height: 350px;
     background-size: cover;
     background-position: center;
@@ -1550,7 +1550,7 @@ a.CloseBtn:after {
 .bulk-section {
     width: 100%;
     min-height: 180px;
-    background-image: url("/assets/img/bulk-banner.png");
+    background-image: url("../img/bulk-banner.png");
     background: linear-gradient(90deg, rgba(15, 15, 15, 0.85), rgba(15, 15, 15, 0.35)), ;
     background-size: cover;
     background-position: center;
@@ -3145,7 +3145,7 @@ a.CloseBtn:after {
 .blog-hero {
     background: #0d0d0d;
     padding: 50px 0;
-    background-image: url(/assets/img/blog-header.png);
+    background-image: url("../img/blog-header.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
