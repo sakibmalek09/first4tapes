@@ -1,5 +1,7 @@
 # First4Tapes
 
+> **🔴 Live site: [https://sakibmalek09.github.io/first4tapes/](https://sakibmalek09.github.io/first4tapes/)**
+>
 > **🔗 View on GitHub: [https://github.com/sakibmalek09/first4tapes](https://github.com/sakibmalek09/first4tapes)**
 
 A fully static e-commerce style website for **First4Tapes** — packaging tapes,
@@ -45,9 +47,8 @@ python -m http.server 8080
 
 ### GitHub Pages
 
-1. In this repo: **Settings → Pages → Build and deployment → Source:
-   "Deploy from a branch"** → branch `main`, folder `/ (root)` → Save.
-2. The site goes live at `https://sakibmalek09.github.io/first4tapes/` in ~1 minute.
+Already live: **https://sakibmalek09.github.io/first4tapes/** — deploys
+automatically from `main` on every push.
 
 ### Netlify
 
