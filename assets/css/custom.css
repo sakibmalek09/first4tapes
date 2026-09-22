@@ -545,6 +545,7 @@ a.CloseBtn:after {
 .cta-section img {
     width: 100%;
     height: 350px;
+    object-fit: cover;
 }
 
 /***category***/
@@ -576,6 +577,7 @@ a.CloseBtn:after {
     display: flex;
     gap: 20px;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .category .card {
@@ -678,6 +680,7 @@ a.CloseBtn:after {
     display: flex;
     justify-content: space-around;
     text-align: center;
+    flex-wrap: wrap;
 }
 
 .stat-item {
@@ -858,7 +861,7 @@ a.CloseBtn:after {
 .about-us {
     background-color: #b8b8b8;
     background-image: url("../img/about us.png");
-    height: 420px;
+    min-height: 420px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1053,7 +1056,7 @@ a.CloseBtn:after {
     background-color: #b8b8b8;
     padding: 40px 0px 40px 0px;
     background-image: url("../img/about us.png");
-    height: 350px;
+    min-height: 350px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
