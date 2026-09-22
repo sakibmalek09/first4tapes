@@ -580,6 +580,11 @@ a.CloseBtn:after {
     flex-wrap: wrap;
 }
 
+.category .card-flex .col-lg-4 {
+    flex: 1 1 260px;
+    max-width: 100%;
+}
+
 .category .card {
     background: #1a1a1a;
     border-radius: 6px;
